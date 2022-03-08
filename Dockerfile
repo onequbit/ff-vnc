@@ -15,3 +15,5 @@ RUN     bash -c 'echo "firefox" >> /.bashrc'
 # sudo docker run -p 5900:5900 -e HOME=/ ff-vnc x11vnc -forever -create
 
 # gvncviewer localhost:0
+
+# 
